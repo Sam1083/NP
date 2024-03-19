@@ -1,0 +1,598 @@
+
+
+
+@media only screen and (min-width: 280px) and (max-width: 319px){
+
+    .bg{
+        background-image: url("../bgdark/bg.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: auto!important;
+        width: auto;
+        aspect-ratio: 3/2;
+        margin-bottom: 300px;}
+    
+        .image{
+    
+         height: auto!important;
+         width: auto!important;
+         aspect-ratio: 3/2;
+        }
+    
+        .text1{
+            margin-top: -20px!important;
+            font-size: x-large!important;
+           margin-left: -20px;
+       
+       
+       }
+       .text2{
+           font-size: x-large!important;
+           margin-top: 12px!important;
+           margin-left: -20px;
+       
+       
+       }
+       .text3{
+           font-size: x-large!important;
+           margin-top: 7px;
+           margin-bottom: -20px!important;
+           margin-left: -20px;
+       
+       
+       }
+       .paragraph{
+           font-size: 15px!important;
+           margin-top: 30px!important;
+           margin-left: -20px;
+           word-wrap: break-word;
+       }
+       .chevron{
+       
+           height: 20px!important;
+           margin-left: -15px;
+       }
+       .service{
+       font-size: 15px!important;
+       margin-left: -45px!important;
+       margin-right: 10px;
+       }
+       .touch-btn{
+       height: 20px!important;       
+       margin-left: 20px!important; 
+       margin-top: 25px!important;
+       }
+       .AR{
+       
+       height: 15px!important; 
+       margin-top: -2px!important; 
+    
+       } 
+       .get{
+     font-size: 12px!important;
+        margin-top: -3px!important; 
+       }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px){
+
+    .bg{
+        background-image: url("../bgdark/bg.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: auto!important;
+        width: auto;
+        aspect-ratio: 3/2;
+        margin-bottom: 300px;}
+    
+        .image{
+    
+         height: auto!important;
+         width: auto!important;
+         aspect-ratio: 3/2;
+        }
+    
+        .text1{
+            margin-top: -20px!important;
+            font-size: x-large!important;
+           margin-left: -20px;
+       
+       
+       }
+       .text2{
+           font-size: x-large!important;
+           margin-top: 12px!important;
+           margin-left: -20px;
+       
+       
+       }
+       .text3{
+           font-size: x-large!important;
+           margin-top: 7px;
+           margin-bottom: -20px!important;
+           margin-left: -20px;
+       
+       
+       }
+       .paragraph{
+           font-size: 15px!important;
+           margin-top: 30px!important;
+           margin-left: -20px;
+           word-wrap: break-word;
+       }
+       .chevron{
+       
+           height: 20px!important;
+           margin-left: -15px;
+       }
+       .service{
+       font-size: 15px!important;
+       margin-left: -45px!important;
+       margin-right: 10px;
+       }
+       .touch-btn{
+       height: 20px!important;       
+       margin-left: 20px!important; 
+       margin-top: 25px!important;
+       }
+       .AR{
+       
+       height: 15px!important; 
+       margin-top: -2px!important; 
+    
+       } 
+       .get{
+     font-size: 12px!important;
+        margin-top: -3px!important; 
+       }
+
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 639px){
+
+
+    .bg{
+        background-image: url("../bgdark/bg.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: auto!important;
+        width: auto;
+        aspect-ratio: 3/2;
+        margin-bottom: 300px;}
+    
+        .image{
+    
+         height: auto!important;
+         width: auto!important;
+         aspect-ratio: 3/2;
+        }
+    
+        .text1{
+            margin-top: -45px!important;
+            font-size: x-large!important;
+           margin-left: -20px;
+       
+       
+       }
+       .text2{
+           font-size: x-large!important;
+           margin-top: 12px!important;
+           margin-left: -20px;
+       
+       
+       }
+       .text3{
+           font-size: x-large!important;
+           margin-top: 7px;
+           margin-bottom: -20px!important;
+           margin-left: -20px;
+       
+       
+       }
+       .paragraph{
+           font-size: 15px!important;
+           margin-top: 30px!important;
+           margin-left: -20px;
+           word-wrap: break-word;
+       }
+       .chevron{
+       
+           height: 20px!important;
+           margin-left: -15px;
+       }
+       .service{
+       font-size: 15px!important;
+       margin-left: -45px!important;
+       margin-right: 10px;
+       }
+       .touch-btn{
+       height: 20px!important;       
+       margin-left: 20px!important; 
+       margin-top: 1px!important;
+       }
+       .AR{
+       
+       height: 15px!important; 
+       margin-top: -2px!important; 
+    
+       } 
+       .get{
+     font-size: 12px!important;
+        margin-top: -3px!important; 
+       }
+
+}
+
+@media only screen and (min-width: 640px)  {
+
+
+    .bg{
+        background-image: url("../bgdark/bg.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: auto!important;
+        width: auto;
+        aspect-ratio: 3/2;
+    margin-bottom: 300px;}
+
+        .image{
+
+         height: auto!important;
+         width: auto!important;
+         aspect-ratio: 3/2;
+        }
+
+        .text1{
+            margin-top: -20px!important;
+            font-size: x-large!important;
+           margin-left: -20px;
+       
+       
+       }
+       .text2{
+           font-size: x-large!important;
+           margin-top: 12px!important;
+           margin-left: -20px;
+       
+       
+       }
+       .text3{
+           font-size: x-large!important;
+           margin-top: 7px;
+           margin-bottom: -20px!important;
+           margin-left: -20px;
+       
+       
+       }
+       .paragraph{
+           font-size: 15px!important;
+           margin-top: 30px!important;
+           margin-left: -20px;
+           word-wrap: break-word;
+       }
+       .chevron{
+       
+           height: 20px!important;
+           margin-left: -15px;
+       }
+       .service{
+       font-size: 15px!important;
+       margin-left: -45px!important;
+       margin-right: 10px;
+       }
+       .touch-btn{
+       height: 20px!important;       
+       margin-left: 20px!important; 
+       margin-top: 25px!important;
+       }
+       .AR{
+       
+       height: 15px!important; 
+       margin-top: -2px!important; 
+
+       } 
+       .get{
+     font-size: 12px!important;
+        margin-top: -3px!important; 
+       }
+}
+
+
+@media only screen and (min-width: 768px)   {    
+    
+    .bg{
+    background-image: url("../bgdark/bg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: auto!important;
+    width: auto;
+    aspect-ratio: 3/2;
+    margin-bottom: 300px;
+}
+
+    .image{
+
+     height: auto!important;
+     width: auto!important;
+     aspect-ratio: 3/2;
+    }
+
+    .text1{
+        margin-top: -20px!important;
+        font-size: x-large!important;
+       margin-left: -20px;
+   
+   
+   }
+   .text2{
+       font-size: x-large!important;
+       margin-top: 12px!important;
+       margin-left: -20px;
+   
+   
+   }
+   .text3{
+       font-size: x-large!important;
+       margin-top: 7px;
+       margin-bottom: -20px!important;
+       margin-left: -20px;
+   
+   
+   }
+   .paragraph{
+       /* font-size: 12px!important; */
+       margin-top: 30px!important;
+       margin-left: -20px;
+       word-wrap: break-word!important;
+       white-space: pre-wrap!important;  
+       word-break: break-all!important;  
+   }
+   .chevron{
+   
+       height: 20px!important;
+       margin-left: -15px;
+   }
+   .service{
+   font-size: 15px!important;
+   margin-left: -45px!important;
+   margin-right: 10px;
+   }
+   .touch-btn{
+   height: 20px!important;       
+   margin-left: 20px!important; 
+   margin-top: 25px!important;
+   }
+   .AR{
+   
+   height: 15px!important; 
+   margin-top: -2px!important; 
+
+   } 
+   .get{
+ font-size: 12px!important;
+    margin-top: -3px!important; 
+   }} 
+
+
+@media only screen and (min-width: 1024px)  {   
+    
+    
+    .bg{
+    background-image: url("../bgdark/bg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: auto!important;
+    width: auto;
+    aspect-ratio: 3/2;
+margin-bottom: 300px;}
+
+    .image{
+
+     height: auto!important;
+     width: auto!important;
+     aspect-ratio: 3/2;
+    }
+
+    .text1{
+        margin-top: -20px!important;
+        font-size: x-large!important;
+       margin-left: -20px;
+   
+   
+   }
+   .text2{
+       font-size: x-large!important;
+       margin-top: 12px!important;
+       margin-left: -20px;
+   
+   
+   }
+   .text3{
+       font-size: x-large!important;
+       margin-top: 7px;
+       margin-bottom: -20px!important;
+       margin-left: -20px;
+   
+   
+   }
+   .paragraph{
+       font-size: 15px!important;
+       margin-top: 30px!important;
+       margin-left: -20px;
+       word-wrap: break-word;
+   }
+   .chevron{
+   
+       height: 20px!important;
+       margin-left: -15px;
+   }
+   .service{
+   font-size: 15px!important;
+   margin-left: -45px!important;
+   margin-right: 10px;
+   }
+   .touch-btn{
+   height: 20px!important;       
+   margin-left: 20px!important; 
+   margin-top: 25px!important;
+   }
+   .AR{
+   
+   height: 15px!important; 
+   margin-top: -2px!important; 
+
+   } 
+   .get{
+ font-size: 12px!important;
+    margin-top: -3px!important; 
+   }} 
+
+
+@media only screen and (min-width: 1280px)  {   
+    
+    
+    .bg{
+    background-image: url("../bgdark/bg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: auto!important;
+    width: auto;
+    aspect-ratio: 3/2;
+margin-bottom: 300px;}
+
+    .image{
+
+     height: auto!important;
+     width: auto!important;
+     aspect-ratio: 3/2;
+    }
+
+    .text1{
+        margin-top: -20px!important;
+        font-size: x-large!important;
+       margin-left: -20px;
+   
+   
+   }
+   .text2{
+       font-size: x-large!important;
+       margin-top: 12px!important;
+       margin-left: -20px;
+   
+   
+   }
+   .text3{
+       font-size: x-large!important;
+       margin-top: 7px;
+       margin-bottom: -20px!important;
+       margin-left: -20px;
+   
+   
+   }
+   .paragraph{
+       font-size: 15px!important;
+       margin-top: 30px!important;
+       margin-left: -20px;
+       word-wrap: break-word;
+   }
+   .chevron{
+   
+       height: 20px!important;
+       margin-left: -15px;
+   }
+   .service{
+   font-size: 15px!important;
+   margin-left: -45px!important;
+   margin-right: 10px;
+   }
+   .touch-btn{
+   height: 20px!important;       
+   margin-left: 20px!important; 
+   margin-top: 25px!important;
+   }
+   .AR{
+   
+   height: 15px!important; 
+   margin-top: -2px!important; 
+
+   } 
+   .get{
+ font-size: 12px!important;
+    margin-top: -3px!important; 
+   } } 
+
+
+@media only screen and (min-width: 1536px)  {  
+    
+    
+    .bg{
+    background-image: url("../bgdark/bg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: auto!important;
+    width: auto;
+    aspect-ratio: 3/2;
+margin-bottom: 300px;}
+
+    .image{
+
+     height: auto!important;
+     width: auto!important;
+     aspect-ratio: 3/2;
+    }
+
+    .text1{
+        margin-top: -20px!important;
+        font-size: x-large!important;
+       margin-left: -20px;
+   
+   
+   }
+   .text2{
+       font-size: x-large!important;
+       margin-top: 12px!important;
+       margin-left: -20px;
+   
+   
+   }
+   .text3{
+       font-size: x-large!important;
+       margin-top: 7px;
+       margin-bottom: -20px!important;
+       margin-left: -20px;
+   
+   
+   }
+   .paragraph{
+       font-size: 15px!important;
+       margin-top: 30px!important;
+       margin-left: -20px;
+       word-wrap: break-word;
+   }
+   .chevron{
+   
+       height: 20px!important;
+       margin-left: -15px;
+   }
+   .service{
+   font-size: 15px!important;
+   margin-left: -45px!important;
+   margin-right: 10px;
+   }
+   .touch-btn{
+   height: 20px!important;       
+   margin-left: 20px!important; 
+   margin-top: 25px!important;
+   }
+   .AR{
+   
+   height: 15px!important; 
+   margin-top: -2px!important; 
+
+   } 
+   .get{
+ font-size: 12px!important;
+    margin-top: -3px!important; 
+   } } 
