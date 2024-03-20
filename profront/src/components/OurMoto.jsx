@@ -9,9 +9,9 @@ const Body = () => {
   return (
     <div className="container mx-auto mt-5">
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 flex justify-center items-center ml-12">
-        <div className="col-span-1 lg:col-span-1 bg-white p-4 rounded-lg">
+        <div className="col-span-1 lg:col-span-1 bg-white mb-3 rounded-lg">
           <span >
-            <img src={T1} alt="" className="lg1"/>
+            <img src={T1} alt="" className="lg1"  />
           </span>
           <h1 className="text-black text-3xl font-bold heads1">
             We build brands that
@@ -26,9 +26,9 @@ const Body = () => {
             undergoing a rebrand
           </p>
         </div>
-        <div className="col-span-1 lg:col-span-1 bg-white p-4 rounded-lg">
+        <div className="col-span-1 lg:col-span-1 bg-white p- rounded-lg">
           <span className="motive1">
-            <img src={T2} alt="" className="motive t1" />
+            <img src={T2} alt="" className="motive t1 space1" />
           </span>
           <h1 className="text-black text-3xl font-bold heads1">
             We utilize our special
@@ -46,7 +46,7 @@ const Body = () => {
         
         <div className="col-span-1 lg:col-span-1 bg-white p- rounded-lg "  style={{marginTop:'-30px'}}>
           <span className="motive1">
-            <img src={T3} alt="" className="motive" />
+            <img src={T3} alt="" className="motive mt-12" />
           </span>
           <h1 className="text-black text-3xl font-bold head1">
             And we facilitate their
@@ -54,7 +54,7 @@ const Body = () => {
           <h1 className="text-3xl font-bold head2" style={{color:"orangered"}}>
             grow to skyrocket.
           </h1>
-          <p className="font-sans text-gray-500 para1" style={{ textAlign: "justify" }}>
+          <p className="font-sans text-gray-500 para11" style={{ textAlign: "justify" }}>
             It's time to fasten your seatbelts. We'll team up with you to devise
             a personalized, unstoppable growth market- ing apparatus using SEO,
             social media, email, paid ads, and any other relevant channels.

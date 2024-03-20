@@ -21,118 +21,340 @@ body {
 }
 
 
-@media only screen and (min-width:280px) and (max-width: 319px){
-    .head1{
-        font-size: 15px!important;
-        margin-bottom: -20px;          
+@media only screen and (min-width:280px) and (max-width: 319px) {
+    .head1 {
+        font-size: 15px !important;
+        margin-bottom: -20px;
     }
-    .heads1{
-        font-size: 15px!important;
-        margin-bottom: -20px;          
+
+    .heads1 {
+        font-size: 15px !important;
+        margin-bottom: -20px;
         margin-left: -30px;
     }
-    .heads2{
-        font-size: 14px!important;
+
+    .heads2 {
+        font-size: 14px !important;
         margin-left: -30px;
 
     }
-    .head2{
-        font-size: 14px!important;
+
+    .space1 {
+
+
+        margin-top: -40px;
     }
-    .motive{
+
+    .head2 {
+        font-size: 14px !important;
+    }
+
+    .motive {
 
         height: 80px;
-        margin-left: 80px;
-}
-    .lg1{
-         height: 80px!important;
-        margin-left: 20px;
+        /* margin-left: 80px; */
+        margin-right: auto;
+    }
 
-}        
-    
-    .para1{
+    .lg1 {
+        height: 80px !important;
+        /* margin-left: 20px; */
 
-        font-size: small!important;
+    }
+
+    .para1 {
+
+        font-size: small !important;
         margin-left: -30px;
         text-align: justify;
-
     }
-    .para2{
 
-        font-size: small!important;
+    .para11 {
+
+        font-size: small !important;
+        margin-right: 20px;
+        text-align: justify !important;
+        margin-bottom: 50px;
+    }
+
+    .para2 {
+
+        font-size: small !important;
         text-align: justify;
-
-        
     }
-    
+
 
 }
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
 
-    .head1{
-        font-size: 15px!important;
-        margin-bottom: -20px;          
+    .head1 {
+        font-size: 15px !important;
+        margin-bottom: -20px;
     }
-    .heads1{
-        font-size: 15px!important;
-        margin-bottom: -20px;          
+
+    .heads1 {
+        font-size: 15px !important;
+        margin-bottom: -20px;
         margin-left: -30px;
     }
-    .heads2{
-        font-size: 14px!important;
+
+    .heads2 {
+        font-size: 14px !important;
         margin-left: -30px;
 
     }
-    .head2{
-        font-size: 14px!important;
+
+    .head2 {
+        font-size: 14px !important;
     }
-    .motive{
+
+    .motive {
 
         height: 100px;
-        margin-left: -50px;
-}
-    .lg1{
-         height: 100px!important;
-    
+        margin-right: auto;
 
-}        
-    
-    .para1{
+    }
 
-        font-size: small!important;
+    .space1 {
+        margin-top: -40px;
+    }
+
+    .lg1 {
+        height: 100px !important;
+
+
+    }
+
+    .para1 {
+
+        font-size: small !important;
         margin-left: -30px;
         text-align: justify;
     }
-    .para2{
 
-        font-size: small!important;
+    .para11 {
+
+        font-size: small !important;
+        margin-right: 20px;
+        margin-bottom: 50px;
+        text-align: justify;
+    }
+
+    .para2 {
+
+        font-size: small !important;
         text-align: justify;
 
-        
+
     }
-    
+
 }
 
-@media only screen and (min-width: 481px) and (max-width: 767px) {}
-@media only screen and (min-width: 768px) and (max-width: 991px) {}
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+
+    .head1 {
+        font-size: 15px !important;
+        margin-bottom: -20px;
+    }
+
+    .heads1 {
+        font-size: 15px !important;
+        margin-bottom: -20px;
+        margin-left: -30px;
+    }
+
+    .heads2 {
+        font-size: 14px !important;
+        margin-left: -30px;
+
+    }
+
+    .head2 {
+        font-size: 14px !important;
+    }
+
+    .motive {
+
+        height: 100px;
+        margin-right: auto;
+    }
+
+    .space1 {
+        margin-top: -40px;
+    }
+
+    .lg1 {
+        height: 100px !important;
+    }
+
+    .para1 {
+
+        font-size: small !important;
+        margin-left: -30px;
+        text-align: justify;
+    }
+
+    .para11 {
+
+        font-size: small !important;
+        margin-right: 20px;
+        text-align: justify;
+    }
+
+    .para2 {
+
+        font-size: small !important;
+        text-align: justify;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .head1 {
+        margin-left: 30px;
+    }
+
+    .head2 {
+        margin-left: 30px;
+
+    }
+
+    .heads1 {
+        margin-left: 10px;
+
+    }
+
+    .heads2 {
+        margin-left: 10px;
+
+    }
+
+    .motive {
+
+        margin-right: auto;
+    }
+
+    .space1 {
+        margin-top: -30px;
+    }
+
+    .para1 {
+        margin-top: 20px;
+        margin-left: 10px;
+        text-align: justify;
+    }
+
+    .para11 {
+        margin-top: 20px;
+        margin-left: 30px;
+        text-align: justify;
+        margin-bottom: 50px;
+
+    }
+}
 
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
     .motive1 {
-        display: flex!important;
-        justify-content:center;
-        align-items: center;       
+        display: flex !important;
+        justify-content: center;
+        align-items: center;
+    }
+    .head1 {
+        margin-left: 30px;
+        margin-top: -12px;
+    }
+
+    .head2 {
+        margin-left: 30px;
+    }
+
+    .heads1 {
+        margin-left: 10px;
+
+    }
+
+    .heads2 {
+        margin-left: 10px;
+
+    }
+    .lg1{
+
+         margin-top: -30px;
+    }
+    .motive {
+
+        margin-right: auto;
+    }
+
+    .space1 {
+        margin-top: -30px;
+    }
+
+    .para1 {
+        margin-top: 20px;
+        margin-left: 10px;
+        text-align: justify;
+    }
+
+    .para11 {
+        margin-top: 20px;
+        margin-left: 30px;
+        text-align: justify;
+        margin-bottom: 50px;
+
     }
 }
+
 @media only screen and (min-width: 1200px) {
 
     .motive1 {
-        display: flex!important;
-        justify-content: center!important;
-        align-items: center;       
     }
+    .head1 {
+        margin-left: 30px;
+    }
+
+    .head2 {
+        margin-left: 30px;
+
+    }
+
+    .heads1 {
+        margin-left: 10px;
+        /* margin-top: 10px; */
+
+    }
+
+    .heads2 {
+        margin-left: 10px;
+
+    }
+
+    .motive {
+
+        margin-right: auto;
+    }
+
+    .space1 {
+        margin-top: -30px;
+    }
+
+    .para1 {
+        margin-top: 20px;
+        margin-left: 10px;
+        text-align: justify;
+    }
+
+    .para11 {
+        margin-top: 20px;
+        margin-left: 30px;
+        text-align: justify;
+        margin-bottom: 50px;
+
+    }
+
 
 }
 

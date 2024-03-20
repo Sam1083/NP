@@ -39,7 +39,7 @@ const Navbar = () => {
             <div className={`lg:flex lg:items-center ${isOpen ? 'block' : 'hidden'} lg:w-auto lg:absolute lg:right-0 lg:top-16 lg:bg-oragne-200 mb-12 lg:w-full lg:mt-0 lg:relative lg:flex lg:justify-end lg:gap-5 lg:px-4`} style={{marginBottom:""}}>
               <ul className="lg:flex lg:items-center contents gap-3" style={{marginTop:"-5rem"}}>
                 <li className="mr-4">
-                  <Link className="text-orangered font-semibold" to="/">Home</Link>
+                  <Link className="text-orangered font-semibold" to="/" style={{color:"orangered"}}>Home</Link>
                 </li>
                 <li className="mr-4 flex items-center gap-1">
                   <Link className="text-dark font-semibold" to="/solutions">
