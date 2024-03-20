@@ -67,6 +67,8 @@ body {
         font-size: small !important;
         margin-left: -30px;
         text-align: justify;
+        margin-bottom: 5px;
+
     }
 
     .para11 {
@@ -91,6 +93,9 @@ body {
     .head1 {
         font-size: 15px !important;
         margin-bottom: -20px;
+        margin-left: -30px !important;
+       
+
     }
 
     .heads1 {
@@ -107,6 +112,8 @@ body {
 
     .head2 {
         font-size: 14px !important;
+        margin-left: -30px !important;
+
     }
 
     .motive {
@@ -115,15 +122,8 @@ body {
         margin-right: auto;
 
     }
-
-    .space1 {
-        margin-top: -40px;
-    }
-
     .lg1 {
         height: 100px !important;
-
-
     }
 
     .para1 {
@@ -131,6 +131,7 @@ body {
         font-size: small !important;
         margin-left: -30px;
         text-align: justify;
+        margin-bottom: 5px;
     }
 
     .para11 {
@@ -139,6 +140,8 @@ body {
         margin-right: 20px;
         margin-bottom: 50px;
         text-align: justify;
+        margin-left: -30px !important;
+
     }
 
     .para2 {
@@ -156,11 +159,12 @@ body {
     .head1 {
         font-size: 15px !important;
         margin-bottom: -20px;
+        margin-left: -30px !important;
     }
 
     .heads1 {
         font-size: 15px !important;
-        margin-bottom: -20px;
+        margin-bottom: -10px;
         margin-left: -30px;
     }
 
@@ -172,6 +176,8 @@ body {
 
     .head2 {
         font-size: 14px !important;
+        margin-left: -30px !important;
+
     }
 
     .motive {
@@ -193,13 +199,16 @@ body {
         font-size: small !important;
         margin-left: -30px;
         text-align: justify;
+        margin-bottom: 5px;
+
     }
 
     .para11 {
 
         font-size: small !important;
-        margin-right: 20px;
         text-align: justify;
+        margin-left: -30px !important;
+
     }
 
     .para2 {
@@ -243,6 +252,8 @@ body {
         margin-top: 20px;
         margin-left: 10px;
         text-align: justify;
+        margin-bottom: 5px;
+
     }
 
     .para11 {
@@ -262,6 +273,7 @@ body {
         justify-content: center;
         align-items: center;
     }
+
     .head1 {
         margin-left: 30px;
         margin-top: -12px;
@@ -280,10 +292,12 @@ body {
         margin-left: 10px;
 
     }
-    .lg1{
 
-         margin-top: -30px;
+    .lg1 {
+
+        margin-top: -30px;
     }
+
     .motive {
 
         margin-right: auto;
@@ -297,6 +311,8 @@ body {
         margin-top: 20px;
         margin-left: 10px;
         text-align: justify;
+        margin-bottom: 5px;
+
     }
 
     .para11 {
@@ -310,8 +326,7 @@ body {
 
 @media only screen and (min-width: 1200px) {
 
-    .motive1 {
-    }
+
     .head1 {
         margin-left: 30px;
     }
@@ -345,6 +360,8 @@ body {
         margin-top: 20px;
         margin-left: 10px;
         text-align: justify;
+        margin-bottom: 5px;
+
     }
 
     .para11 {

@@ -61,7 +61,7 @@
     justify-content: center;
 }
 
-@media only screen and (min-width: 992px) and (max-width: 1535px) {
+@media only screen and (min-width: 992px) and (max-width: 1400px) {
 
     .bod {
         height: auto !important;
@@ -102,16 +102,17 @@
         margin-left: 10px !important;
 
     }
+   
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (min-width: 481px) and (max-width: 767px){
 
     .logosb {
 
         margin-top: 250px;
 
     }
-
+   
     .border-r {
         height: auto;
     }
@@ -124,14 +125,19 @@
     }
 
     .tex {
-        margin-left: 10px !important;
-
+        margin-left: -180px !important;
+        font-size: 15px!important;
 
     }
 
     .brand {
 
         margin-left: 10px;
+        font-size: large!important;
+    }
+    .main{
+        font-size: large!important;
+
     }
 }
 
@@ -156,6 +162,8 @@
 
     .tex {
         margin-left: 10px !important;
+        font-size: 12px!important;
+        margin-bottom: -20px;
 
 
     }
@@ -163,9 +171,13 @@
     .brand {
 
         margin-left: 10px;
+        font-size:small!important;
     }
 
+    .main{
+        font-size:small!important;
 
+    }
 
 }
 
